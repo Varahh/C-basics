@@ -1,0 +1,14 @@
+D:\Tasks\Class9_Task1\Class9_Task1\bin\Debug\Class9_Task1.exe.config
+D:\Tasks\Class9_Task1\Class9_Task1\bin\Debug\Class9_Task1.exe
+D:\Tasks\Class9_Task1\Class9_Task1\bin\Debug\Class9_Task1.pdb
+D:\Tasks\Class9_Task1\Class9_Task1\obj\Debug\Class9_Task1.csproj.AssemblyReference.cache
+D:\Tasks\Class9_Task1\Class9_Task1\obj\Debug\Class9_Task1.csproj.CoreCompileInputs.cache
+D:\Tasks\Class9_Task1\Class9_Task1\obj\Debug\Class9_Task1.exe
+D:\Tasks\Class9_Task1\Class9_Task1\obj\Debug\Class9_Task1.pdb
+D:\Tasks\Lesson9_Task1\Class9_Task1\bin\Debug\Class9_Task1.exe.config
+D:\Tasks\Lesson9_Task1\Class9_Task1\bin\Debug\Class9_Task1.exe
+D:\Tasks\Lesson9_Task1\Class9_Task1\bin\Debug\Class9_Task1.pdb
+D:\Tasks\Lesson9_Task1\Class9_Task1\obj\Debug\Class9_Task1.csproj.AssemblyReference.cache
+D:\Tasks\Lesson9_Task1\Class9_Task1\obj\Debug\Class9_Task1.csproj.CoreCompileInputs.cache
+D:\Tasks\Lesson9_Task1\Class9_Task1\obj\Debug\Class9_Task1.exe
+D:\Tasks\Lesson9_Task1\Class9_Task1\obj\Debug\Class9_Task1.pdb
