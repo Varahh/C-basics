@@ -1,0 +1,8 @@
+C:\Users\Sugi\source\repos\Class4_Lesson1\Class4_Lesson1\bin\Debug\Class4_Lesson1.exe.config
+C:\Users\Sugi\source\repos\Class4_Lesson1\Class4_Lesson1\bin\Debug\Class4_Lesson1.exe
+C:\Users\Sugi\source\repos\Class4_Lesson1\Class4_Lesson1\bin\Debug\Class4_Lesson1.pdb
+C:\Users\Sugi\source\repos\Class4_Lesson1\Class4_Lesson1\obj\Debug\Class4_Lesson1.csproj.AssemblyReference.cache
+C:\Users\Sugi\source\repos\Class4_Lesson1\Class4_Lesson1\obj\Debug\Class4_Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Sugi\source\repos\Class4_Lesson1\Class4_Lesson1\obj\Debug\Class4_Lesson1.exe
+C:\Users\Sugi\source\repos\Class4_Lesson1\Class4_Lesson1\obj\Debug\Class4_Lesson1.pdb
+C:\Users\Sugi\source\repos\Class4_Lesson1\Class4_Lesson1\obj\Debug\Class4_Lesson1.exe.config

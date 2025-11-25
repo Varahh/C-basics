@@ -1,0 +1,7 @@
+C:\Users\Sugi\source\repos\Lesson4_Task2\Lesson4_Task2\bin\Debug\Lesson4_Task2.exe.config
+C:\Users\Sugi\source\repos\Lesson4_Task2\Lesson4_Task2\bin\Debug\Lesson4_Task2.exe
+C:\Users\Sugi\source\repos\Lesson4_Task2\Lesson4_Task2\bin\Debug\Lesson4_Task2.pdb
+C:\Users\Sugi\source\repos\Lesson4_Task2\Lesson4_Task2\obj\Debug\Lesson4_Task2.csproj.AssemblyReference.cache
+C:\Users\Sugi\source\repos\Lesson4_Task2\Lesson4_Task2\obj\Debug\Lesson4_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Sugi\source\repos\Lesson4_Task2\Lesson4_Task2\obj\Debug\Lesson4_Task2.exe
+C:\Users\Sugi\source\repos\Lesson4_Task2\Lesson4_Task2\obj\Debug\Lesson4_Task2.pdb
