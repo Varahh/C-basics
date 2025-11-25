@@ -1,0 +1,8 @@
+C:\Users\Sugi\source\repos\Lesson6_Task1\Lesson6_Task1\bin\Debug\Lesson6_Task1.exe.config
+C:\Users\Sugi\source\repos\Lesson6_Task1\Lesson6_Task1\bin\Debug\Lesson6_Task1.exe
+C:\Users\Sugi\source\repos\Lesson6_Task1\Lesson6_Task1\bin\Debug\Lesson6_Task1.pdb
+C:\Users\Sugi\source\repos\Lesson6_Task1\Lesson6_Task1\obj\Debug\Lesson6_Task1.csproj.AssemblyReference.cache
+C:\Users\Sugi\source\repos\Lesson6_Task1\Lesson6_Task1\obj\Debug\Lesson6_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Sugi\source\repos\Lesson6_Task1\Lesson6_Task1\obj\Debug\Lesson6_Task1.exe
+C:\Users\Sugi\source\repos\Lesson6_Task1\Lesson6_Task1\obj\Debug\Lesson6_Task1.pdb
+C:\Users\Sugi\source\repos\Lesson6_Task1\Lesson6_Task1\obj\Debug\Lesson6_Task1.exe.config

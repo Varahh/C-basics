@@ -1,0 +1,8 @@
+C:\Users\Sugi\source\repos\Class5_Task3\Class5_Task3\bin\Debug\Class5_Task3.exe.config
+C:\Users\Sugi\source\repos\Class5_Task3\Class5_Task3\bin\Debug\Class5_Task3.exe
+C:\Users\Sugi\source\repos\Class5_Task3\Class5_Task3\bin\Debug\Class5_Task3.pdb
+C:\Users\Sugi\source\repos\Class5_Task3\Class5_Task3\obj\Debug\Class5_Task3.csproj.AssemblyReference.cache
+C:\Users\Sugi\source\repos\Class5_Task3\Class5_Task3\obj\Debug\Class5_Task3.csproj.CoreCompileInputs.cache
+C:\Users\Sugi\source\repos\Class5_Task3\Class5_Task3\obj\Debug\Class5_Task3.exe
+C:\Users\Sugi\source\repos\Class5_Task3\Class5_Task3\obj\Debug\Class5_Task3.pdb
+C:\Users\Sugi\source\repos\Class5_Task3\Class5_Task3\obj\Debug\Class5_Task3.exe.config
