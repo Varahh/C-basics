@@ -1,0 +1,7 @@
+D:\Tasks\Class12_Task3\Class12_Task3\bin\Debug\Class12_Task3.exe.config
+D:\Tasks\Class12_Task3\Class12_Task3\bin\Debug\Class12_Task3.exe
+D:\Tasks\Class12_Task3\Class12_Task3\bin\Debug\Class12_Task3.pdb
+D:\Tasks\Class12_Task3\Class12_Task3\obj\Debug\Class12_Task3.csproj.AssemblyReference.cache
+D:\Tasks\Class12_Task3\Class12_Task3\obj\Debug\Class12_Task3.csproj.CoreCompileInputs.cache
+D:\Tasks\Class12_Task3\Class12_Task3\obj\Debug\Class12_Task3.exe
+D:\Tasks\Class12_Task3\Class12_Task3\obj\Debug\Class12_Task3.pdb

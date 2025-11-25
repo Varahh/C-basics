@@ -1,0 +1,8 @@
+C:\Users\Sugi\source\repos\Class12_Task2\Class12_Task2\bin\Debug\Class12_Task2.exe.config
+C:\Users\Sugi\source\repos\Class12_Task2\Class12_Task2\bin\Debug\Class12_Task2.exe
+C:\Users\Sugi\source\repos\Class12_Task2\Class12_Task2\bin\Debug\Class12_Task2.pdb
+C:\Users\Sugi\source\repos\Class12_Task2\Class12_Task2\obj\Debug\Class12_Task2.csproj.AssemblyReference.cache
+C:\Users\Sugi\source\repos\Class12_Task2\Class12_Task2\obj\Debug\Class12_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Sugi\source\repos\Class12_Task2\Class12_Task2\obj\Debug\Class12_Task2.exe
+C:\Users\Sugi\source\repos\Class12_Task2\Class12_Task2\obj\Debug\Class12_Task2.pdb
+C:\Users\Sugi\source\repos\Class12_Task2\Class12_Task2\obj\Debug\Class12_Task2.exe.config
